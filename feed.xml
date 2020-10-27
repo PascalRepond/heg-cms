@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Cours CMS HEG</title>
+    <link href="https://pascalrepond.github.io/heg-cms/feed.xml" rel="self" />
+    <link href="https://pascalrepond.github.io/heg-cms" />
+    <updated>2020-10-27T09:25:49+01:00</updated>
+    <author>
+        <name>Pascal Repond</name>
+    </author>
+    <id>https://pascalrepond.github.io/heg-cms</id>
+
+    <entry>
+        <title>Hello World!</title>
+        <author>
+            <name>Pascal Repond</name>
+        </author>
+        <link href="https://pascalrepond.github.io/heg-cms/hello-world-2.html"/>
+        <id>https://pascalrepond.github.io/heg-cms/hello-world-2.html</id>
+
+        <updated>2020-10-27T09:25:49+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Ce site Publii est réalisé dans le cadre du cours de CMS HEG ID
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ce site Publii est réalisé dans le cadre du cours de CMS HEG ID</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://pascalrepond.github.io/heg-cms/media/posts/2/3b21a5.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://pascalrepond.github.io/heg-cms/media/posts/2/responsive/3b21a5-xs.jpg 300w ,https://pascalrepond.github.io/heg-cms/media/posts/2/responsive/3b21a5-sm.jpg 480w ,https://pascalrepond.github.io/heg-cms/media/posts/2/responsive/3b21a5-md.jpg 768w ,https://pascalrepond.github.io/heg-cms/media/posts/2/responsive/3b21a5-lg.jpg 1024w ,https://pascalrepond.github.io/heg-cms/media/posts/2/responsive/3b21a5-xl.jpg 1360w ,https://pascalrepond.github.io/heg-cms/media/posts/2/responsive/3b21a5-2xl.jpg 1600w"  alt="Memz" width="501" height="499"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

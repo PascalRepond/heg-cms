@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Cours CMS HEG",
+    "description": "",
+    "home_page_url": "https://pascalrepond.github.io/heg-cms",
+    "feed_url": "https://pascalrepond.github.io/heg-cms/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Pascal Repond"
+    },
+    "items": [
+        {
+            "id": "https://pascalrepond.github.io/heg-cms/hello-world-2.html",
+            "url": "https://pascalrepond.github.io/heg-cms/hello-world-2.html",
+            "title": "Hello World!",
+            "summary": "Ce site Publii est réalisé dans le cadre du cours de CMS HEG ID",
+            "content_html": "<p>Ce site Publii est réalisé dans le cadre du cours de CMS HEG ID</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://pascalrepond.github.io/heg-cms/media/posts/2/3b21a5.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://pascalrepond.github.io/heg-cms/media/posts/2/responsive/3b21a5-xs.jpg 300w ,https://pascalrepond.github.io/heg-cms/media/posts/2/responsive/3b21a5-sm.jpg 480w ,https://pascalrepond.github.io/heg-cms/media/posts/2/responsive/3b21a5-md.jpg 768w ,https://pascalrepond.github.io/heg-cms/media/posts/2/responsive/3b21a5-lg.jpg 1024w ,https://pascalrepond.github.io/heg-cms/media/posts/2/responsive/3b21a5-xl.jpg 1360w ,https://pascalrepond.github.io/heg-cms/media/posts/2/responsive/3b21a5-2xl.jpg 1600w\"  alt=\"Memz\" width=\"501\" height=\"499\"></figure>",
+            "author": {
+                "name": "Pascal Repond"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-27T09:25:49+01:00",
+            "date_modified": "2020-10-27T09:25:49+01:00"
+        }
+    ]
+}
